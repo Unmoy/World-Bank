@@ -1,0 +1,20 @@
+body {
+  padding: 100px;
+}
+.login-form {
+  margin-top: 50px;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px grey;
+}
+#transaction-area {
+  display: none;
+}
+.status {
+  background-color: black;
+  color: white;
+  margin: 0 20px;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gold;
+}
